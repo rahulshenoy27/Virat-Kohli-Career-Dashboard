@@ -20,6 +20,6 @@ The dashboard includes:
 7. Centuries - Based on Countries
 
 ## Tools & Technologies
-Power BI – Data visualization & dashboard creation
-Power Query – Data transformation
-ESPN Cricinfo API/Get Data – Data extraction
+* Power BI – Data visualization & dashboard creation
+* Power Query – Data transformation
+* ESPN Cricinfo API/Get Data – Data extraction
