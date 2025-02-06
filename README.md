@@ -1,6 +1,6 @@
 # Virat-Kohli-International-Career-Dashboard
 ## Overview
-This project is a Power BI dashboard analyzing Virat Kohli's in ternational batting career (2008 - BGT 2024-25). It provides insights into his performances across formats using data sourced from ESPN Cricinfo and transformed with Power Query.
+This project is a Power BI dashboard analyzing Virat Kohli's international batting career (2008 - BGT 2024-25). It provides insights into his performances across formats using data sourced from ESPN Cricinfo and transformed with Power Query.
 
 ## Data Source
 * Data fetched using Power BI’s "Get Data" feature from ESPN Cricinfo.
@@ -21,3 +21,17 @@ The dashboard includes:
 * Power BI – Data visualization & dashboard creation
 * Power Query – Data transformation
 * ESPN Cricinfo API/Get Data – Data extraction
+
+## Project Structure
+- README.MD
+- Virat-Kohli-Career_Dashboard.pbix
+- Virat-Kohli-Career_Dataset.xlsx
+- Virat-Kohli-Career_Screenshot.png
+
+## Future Enhancements
+* Add real-time data updates
+* Include IPL stats & Bowling stats
+* Compare with other top batsmen
+
+## Author
+Rahul Shenoy Ranjal
